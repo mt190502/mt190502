@@ -7,6 +7,5 @@
 
 <code><a href="https://getfedora.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></a></code>
 <code><a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Full/Installation" target="_blank"><img height="50" src="https://assets.gentoo.org/tyrian/v1/site-logo.svg"></a></code>
-<code><a href="https://archlinux.org" target="_blank"><img height="50" src="https://archlinux.org/static/archnavbar/archlogo.a2d0ef2df27d.png"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code> 
