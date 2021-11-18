@@ -2,8 +2,6 @@
 
 <p align="center">🐍 I’m currently learning <b>Python</b> in free time. 💻</p>
 
-![](https://komarev.com/ghpvc/?username=mt190502)
-
 <br>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
@@ -15,3 +13,4 @@
 &emsp;</br>
 
 ![Taha'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark)
+![](https://komarev.com/ghpvc/?username=mt190502)
