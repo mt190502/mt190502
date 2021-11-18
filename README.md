@@ -3,7 +3,7 @@
 <p align="center">🐍 I’m currently learning <b>Python</b> in free time. 💻</p>
 
 <p align="center"><br>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+<a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="JS" src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black">
