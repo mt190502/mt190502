@@ -10,7 +10,8 @@
 <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></a>
 <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></a>
 <a href="#"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></a>
-&emsp;</br> ![](https://komarev.com/ghpvc/?username=mt190502)
+&emsp;</br>
+![](https://komarev.com/ghpvc/?username=mt190502)
 
 ![Taha'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark)
 
