@@ -14,4 +14,4 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mt190502"></a>
 &emsp;</br></p>
 
-![Taha'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark)"></img>
