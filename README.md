@@ -12,7 +12,8 @@
 <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></a>
 <a href="#"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mt190502"></a>
-&emsp;</p></br>
+&emsp;</br>
 
 ![Taha'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark)
 
+</p>
