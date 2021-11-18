@@ -10,6 +10,7 @@
 <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></a>
 <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></a>
 <a href="#"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></a>
+<a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mt190502"></a>
 &emsp;</p></br>
 
