@@ -2,8 +2,9 @@
 
 <p align="center">🐍 I’m currently learning <b>Python</b> in free time. 💻</p>
 
-<br>
 ![](https://komarev.com/ghpvc/?username=mt190502)
+
+<br>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white"></a>
 <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/></a>
