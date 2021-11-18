@@ -6,7 +6,8 @@
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"></a><br>
+<a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=black"></a><br>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></a>
 <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></a>
@@ -14,4 +15,4 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mt190502"></a>
 &emsp;</br></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark"></img>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark"></img>
