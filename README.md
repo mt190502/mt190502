@@ -15,5 +15,5 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mt190502"></a>
 &emsp;</br></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark"></img>
+<img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark"></img>
 <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt190502&langs_count=9&layout=demo&theme=dark"></img>
