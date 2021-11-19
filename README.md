@@ -13,7 +13,7 @@
 <a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
 <a href="https://github.com/mt190502"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></img></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mt190502"></img></a>
-&emsp;</br></p>
+</br></p>
 
 <p align="center">
 <img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark"></img>
