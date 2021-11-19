@@ -5,7 +5,7 @@
 <p align="center"><br>
 <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img></a>
 <a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img></a> 
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img></a>
+<a href="https://www.w3.org/Style/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img></a>
 <a href="https://javascript.com"><img alt="JS" src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"></img></a>
 <a href="https://www.gnu.org/software/bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"></img></a><br>
 <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></img></a>
