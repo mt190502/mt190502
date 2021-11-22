@@ -11,7 +11,7 @@
 <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></img></a>
 <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></img></a>
 <a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
-<a href="https://github.com/mt190502"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></img></a>
+<a href="https://github.com/discover02"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></img></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=discover02"></img></a>
 </br></p>
 
