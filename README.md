@@ -17,6 +17,6 @@
 </br></p>
 
 <p align="center">
-<img height=300 width=500 src="https://github-readme-stats.vercel.app/api?username=discover02&show_icons=true&theme=dark"></img>
-<img height=300 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover02&langs_count=9&layout=compact&theme=dark"></img>
+<img height=280 width=480 src="https://github-readme-stats.vercel.app/api?username=discover02&show_icons=true&theme=dark"></img>
+<img height=280 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover02&langs_count=9&layout=compact&theme=dark"></img>
 </p>
