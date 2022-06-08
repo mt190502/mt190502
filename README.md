@@ -9,9 +9,9 @@
 <a href="https://javascript.com"><img alt="JS" src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"></img></a>
 <a href="https://learn-c.org"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"></img></a>
 <a href="https://www.gnu.org/software/bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"></img></a><br>
+<a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
 <a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></img></a>
 <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></img></a>
-<a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
 <a href="https://github.com/discover02"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></img></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=discover02"></img></a>
 </br></p>
