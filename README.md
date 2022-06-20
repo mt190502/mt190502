@@ -18,5 +18,5 @@
 
 <p align="center">
 <img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=discover02&show_icons=true&theme=dark"></img>
-<img height=250 width=375 src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover02&langs_count=9&layout=compact&theme=dark"></img>
+<img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=discover02&langs_count=9&layout=compact&theme=dark"></img>
 </p>
