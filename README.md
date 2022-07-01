@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Taha 👋</h1>
 
-<h2 align="center">🐍 I’m currently learning <b>Python</b> and <b>C</b> in free time. 💻</h2>
+<h2 align="center">🐍 I’m currently learning <b>Python</b>, <b>C</b> and <b>JS</b> in free time. 💻</h2>
 
 <p align="center"><br>
 <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img></a>
