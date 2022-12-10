@@ -22,5 +22,5 @@
 </p>
 
 <p align="center"><br>
-<a href="https://www.buymeacoffee.com/inspectorgadget03"><img src="https://img.buymeacoffee.com/button-api/?text=Bana Kahve Ismarla :)&emoji=&slug=inspectorgadget03&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a><br>
+<a href="https://www.buymeacoffee.com/inspectorgadget"><img src="https://img.buymeacoffee.com/button-api/?text=Bana Kahve Ismarla :)&emoji=&slug=inspectorgadget&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a><br>
 </p>  
