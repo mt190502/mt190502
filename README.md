@@ -23,6 +23,8 @@
 <img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt190502&langs_count=9&layout=compact&theme=dark"></img>
 </p>
 
+<!--
 <p align="center"><br>
 <a href="https://www.buymeacoffee.com/inspectorgadget"><img src="https://img.buymeacoffee.com/button-api/?text=Bana Kahve Ismarla :)&emoji=&slug=inspectorgadget&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a><br>
 </p>  
+-->
