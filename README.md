@@ -14,7 +14,7 @@
 <a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
 <a href="https://debian.org"><img alt="Debian" src="https://img.shields.io/badge/Debian-A80030?style=flat&logo=debian&logoColor=white"></img></a>
 <a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></img></a>
-<a href="https://github.com/inspectorgadget03"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></img></a>
+<a href="https://kernel.org"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></img></a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=mt190502"></img></a>
 </br></p>
 
