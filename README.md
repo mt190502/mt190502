@@ -4,7 +4,7 @@
 
 <p align="center"><br>
 <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img></a>
-<a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img></a> 
+<a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img></a>
 <a href="https://www.w3.org/Style/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img></a>
 <a href="https://javascript.com"><img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></img></a>
 <a href="https://typescriptlang.org"><img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></img></a>
@@ -21,6 +21,10 @@
 <p align="center">
 <img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=mt190502&show_icons=true&theme=dark"></img>
 <img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt190502&langs_count=9&layout=compact&theme=dark"></img>
+</p>
+
+<p align="center"><br>
+<a href="https://mtaha.dev"><img height=31 width=87 src="https://raw.githubusercontent.com/mt190502/mt190502/gh-pages/webring_animated.gif"></img></a>
 </p>
 
 <!--
